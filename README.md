@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/archibhatt091601/leetcode/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/archibhatt091601/leetcode/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/archibhatt091601/leetcode/tree/master/3099-harshad-number) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/archibhatt091601/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
